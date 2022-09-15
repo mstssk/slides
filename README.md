@@ -4,4 +4,4 @@
 - 2022-09-13: [4KディスプレイだとCSSアニメーションがぶっ壊れた話](./2022-09-13_css-4k/)
 
 ## Others
-- https://speakerdeck.com/mstssk
+- [https://speakerdeck.com/mstssk](https://speakerdeck.com/mstssk)
