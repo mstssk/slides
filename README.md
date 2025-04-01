@@ -5,14 +5,3 @@
 
 ## Others
 - [https://speakerdeck.com/mstssk](https://speakerdeck.com/mstssk)
-
-<br>
-
-<style>
-@view-transition {
-  navigation: auto;
-}
-#slides span {
-  view-transition-name: slides;
-}
-</style>
