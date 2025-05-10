@@ -1,6 +1,7 @@
 -----
 title: TypeScriptを使う、ということ
 tags: [typescript]
+marp: true
 -----
 
 # JavaScriptの限界
