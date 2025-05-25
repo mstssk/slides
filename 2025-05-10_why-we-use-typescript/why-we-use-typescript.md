@@ -6,6 +6,9 @@ style: |
   section {
     font-size: 1.3rem;
   }
+  small {
+    font-size: 70%;
+  }
 -----
 
 # JavaScriptの限界
@@ -21,7 +24,7 @@ style: |
 - 型による補完とナビゲーション支援で、IDEの利便性が大幅に向上する。
 - 結果として、大規模なJavaScriptコードベースでも安全でスケーラブルな開発が可能になる。
 
-<small>https://www.typescriptlang.org/why-create-typescript/ をChatGPTに要約させた</small>
+<small>※ https://www.typescriptlang.org/why-create-typescript/ をChatGPTに要約させた</small>
 
 -----
 
@@ -42,7 +45,7 @@ style: |
 世の中の大抵の開発プロジェクトはこれらの条件は合致しない。
 かつ、プロダクト開発に多くのリソースを割くためにも、自動化できる部分は自動化しよう。
 
-<small>上記のリストは見出しなどを除きほぼCopilot生成</small>
+<small>※ 上記のリストは見出しなどを除きほぼCopilot生成</small>
 
 -----
 
