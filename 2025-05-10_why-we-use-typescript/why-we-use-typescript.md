@@ -2,6 +2,10 @@
 title: TypeScriptを使う、ということ
 tags: [typescript]
 marp: true
+style: |
+  section {
+    font-size: 1.3rem;
+  }
 -----
 
 # JavaScriptの限界
