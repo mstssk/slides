@@ -7,4 +7,4 @@
 
 ## Others
 - [https://speakerdeck.com/mstssk](https://speakerdeck.com/mstssk)
-- [https://mstssk.github.io/jp2kq](https://mstssk.github.io/jp2kq)
+- [jp2kq：京急語コンバータ](https://mstssk.github.io/jp2kq)
